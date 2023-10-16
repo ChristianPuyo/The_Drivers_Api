@@ -1,0 +1,17 @@
+.containerCards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+  
+}
+
+.select{
+  margin: 20px;
+  width: 200px;
+}
+
+.container{
+  background-image: linear-gradient(to bottom, #abc6a3, #84df84); /* Degradado vertical de rojo a verde */
+
+}

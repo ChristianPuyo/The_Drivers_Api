@@ -1,0 +1,17 @@
+.container{
+    border: solid 2px black;
+    width: 800px;
+    margin-left: 380px;
+    background-image: linear-gradient(to bottom, #abc6a3, #84df84); /* Degradado vertical de rojo a verde */
+    padding: 20px;
+}
+
+.input{
+    width:50%;
+    height: 30px;
+    margin: 5px;
+}
+
+.parrafo{
+    color: red;
+}

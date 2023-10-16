@@ -1,0 +1,25 @@
+.containerCard{
+    border: solid 2px black;
+    height: 590px; 
+    width: 350px;
+    display: inline-table;
+    margin: 1%;
+    padding: 10px; 
+    border-radius: 20px;
+}
+.containerCard:hover{
+box-shadow: 10px 8px 6px grey ;
+
+}
+.containerCards{
+    display: flex; /* Usa "flex" en lugar de "inline-block" para alinear horizontalmente las tarjetas */
+  flex-wrap: wrap; /* Esto permite que las tarjetas se envuelvan a la siguiente fila si no caben en el ancho de la pantalla */
+  justify-content: flex-start;  
+}
+
+.image{
+  border-radius: 15%;
+  border: solid 1px black;
+  width:180px;
+   height:230px
+}

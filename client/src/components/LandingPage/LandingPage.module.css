@@ -1,0 +1,13 @@
+.container {
+    background-image: url('https://hips.hearstapps.com/hmg-prod/images/amr2201-1644505633.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen al contenedor */
+    background-repeat: no-repeat; /* Evita la repetición de la imagen */
+    width: 1550px;
+    height: 680px; /* Ajusta la altura según tus necesidades */
+    /* Otros estilos para tu componente */
+    margin-top: 0px;
+    color: black;
+    padding-top: 100px;
+    
+}  
+

@@ -1,0 +1,12 @@
+.container{
+    padding: 10px;
+    border: solid 3px black;
+    width: 700px;
+    margin-left: 400px;
+    background-image: linear-gradient(to bottom, #abc6a3, #84df84); /* Degradado vertical de rojo a verde */
+}
+
+.image{
+    border-radius: 40px;
+   
+}
